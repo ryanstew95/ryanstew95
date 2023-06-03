@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ryan Stewart
+- 👀 I’m interested in video editing, animation, and coding
+- 🌱 I’m currently learning web devepment with lighthouse labs 
+- 📫 How to reach me via email at creativecaptures70@gmail.com
