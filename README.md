@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ryan Stewart
-- 👀 I’m interested in video editing, animation, and coding
-- 🌱 I’m currently learning web development with lighthouse labs 
+- 👀 I’m interested in coding, video editing, and animation
+- 🌱 I’m a recent graduate of Lighthouse Labs for web development
 - 📫 How to reach me via email at ryanstew17@gmail.com
